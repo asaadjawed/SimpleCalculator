@@ -1,0 +1,33 @@
+.main{
+    border: 2px solid grey;
+    width: 200px;
+    margin: 0 auto;
+    
+    
+}
+
+.result{
+    width: 96%;
+    background-color: grey;
+    color: #fff;
+    
+}
+
+.clear{
+    width: 100%;
+    color: black;
+    background-color: grey;
+    margin-top: 10px;
+}
+
+.btn{
+    background-color: grey;
+    width: 47px;
+    margin-top: 5px;
+}
+
+.hlfbtn{
+    background-color: grey;
+    width: 49%;
+    margin-top: 5px;
+}
